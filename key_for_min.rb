@@ -8,6 +8,7 @@ def key_for_min_value(name_hash)
     if value <= value_to_compare
       value_to_compare = value
       key_to_store = key 
+    
     end
   end
   key_to_store
